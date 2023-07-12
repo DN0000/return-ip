@@ -1,0 +1,14 @@
+{
+  "name": "return-ip",
+  "version": "1.0.0",
+  "description": "Returns PA Friendly IP List in response to a DNS name request",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Noles",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
